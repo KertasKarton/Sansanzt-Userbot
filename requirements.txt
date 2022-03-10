@@ -207,3 +207,4 @@ pendulum
 opencv-python
 
 youtube-search-python
+pip3 install -U py-tgcalls
